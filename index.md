@@ -2,6 +2,7 @@
 layout: page
 title: Hello World!
 tagline: Unifying my little corner of the omniverse
+comments: true
 ---
 {% include JB/setup %}
 
