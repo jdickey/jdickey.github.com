@@ -3,8 +3,7 @@ layout: post
 title: "A Lever, or a toothpick?"
 description: "Collaboration and Communication as Prerequisites for Software Success. Originally posted on old &quot;Archimedes' Lever&;quot; blog."
 category:
-comments: true
-tags: [archlever,collaboration, communication, craftsmanship, development, open standards, quality]
+tags: [archlever, collaboration, communication, craftsmanship, development, open standards, quality]
 ---
 {% include JB/setup %}
 

@@ -3,7 +3,7 @@ layout: post
 title: Bootstrap and alternates are GREAT! Except when they lead to...
 date: 2014-07-29 10:18:00 UTC
 updated: 2015-02-07 09:07:00 UTC
-keywords: "Web development, Ruby on Rails, deprecation, Bootstrap, blogging, markup, rails, blog, Ruby, HTML"
+tags: [archlever, Web development, Ruby on Rails, deprecation, Bootstrap, blogging, markup, rails, blog, Ruby, HTML]
 ---
 
 ...[divitis](https://en.wiktionary.org/wiki/Citations:divitis) like this (in a [Slim](http://slim-lang.com) template):
