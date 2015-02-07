@@ -26,7 +26,7 @@ markdown: kramdown
 kramdown:
   input: GFM
 permalinks: pretty
-highlighter: rouge
+# highlighter: rouge
 exclude: ['vendor']
 comments:
   provider: disqus
