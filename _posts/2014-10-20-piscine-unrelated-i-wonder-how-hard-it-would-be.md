@@ -5,6 +5,7 @@ date: 2014-10-20 10:52:04 GMT
 updated: 2015-02-16 00:06:00 SGT
 tags: [tumblr, c++, python, ruby, object oriented programming]
 ---
+{% include JB/setup %}
 
 [**piscine-unrelated:**](http://piscine-unrelated.tumblr.com/post/100395787102/i-wonder-how-hard-it-would-be-to-make-the-jump)
 
