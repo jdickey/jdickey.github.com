@@ -1,6 +1,6 @@
 ---           
 layout: post
-title: &#91;Repost&#93; Welcome to Syria
+title: Repost&#58; Welcome to Syria
 date: 2014-10-21 16:23:32 GMT
 updated: 2015-02-16 01:21:00 SGT
 category:
