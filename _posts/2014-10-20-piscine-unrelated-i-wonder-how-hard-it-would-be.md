@@ -1,6 +1,6 @@
 ---           
 layout: post
-title: piscine-unrelated: I wonder how hard it would be...
+title: piscine-unrelated&#58; I wonder how hard it would be...
 date: 2014-10-20 10:52:04 GMT
 updated: 2015-02-16 00:06:00 SGT
 category:
